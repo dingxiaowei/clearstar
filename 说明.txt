@@ -1,0 +1,2 @@
+基于cocos2dx 3.2 c++ 版本的消灭星星 
+http://blog.csdn.net/dingxiaowei2013
